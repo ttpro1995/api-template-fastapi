@@ -12,5 +12,4 @@ ports:
 vscode:
   extensions:
     - ms-python.python
-    - entepe85.gitlens  
     - esbenp.prettier-vscode
